@@ -19,3 +19,4 @@
 ## Docs
 1. [Laravel Websocket](https://beyondco.de/docs/laravel-websockets/getting-started/introduction)
 2. [YT Tutorial](https://www.youtube.com/watch?v=w8rj1C0fLgw)
+3. [Setup SSL For Laravel Websocket](https://beyondco.de/docs/laravel-websockets/basic-usage/ssl)
