@@ -7,6 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Instalation
+1. clone this project
+2. cp .env.example to .env
+3. setting databas in .env
+4. run php artisan migrate
+5. run php artisan key:generate
+6. dont forget play video tutorial to deploy in vps [youtube](https://youtu.be/WCpU2CqsIr4?si=oMyaNwE74ABeoPQX)
+
 ## About Laravel Websocket
 
 1. Laravel Version 10
