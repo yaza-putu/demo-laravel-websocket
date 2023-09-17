@@ -13,7 +13,7 @@
 3. setting databas in .env
 4. run php artisan migrate
 5. run php artisan key:generate
-6. dont forget play video tutorial to deploy in vps [youtube](https://youtu.be/WCpU2CqsIr4?si=oMyaNwE74ABeoPQX)
+6. dont forget play video tutorial to deploy in vps [click to view](https://youtu.be/WCpU2CqsIr4?si=oMyaNwE74ABeoPQX)
 
 ## About Laravel Websocket
 
