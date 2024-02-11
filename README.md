@@ -14,6 +14,23 @@
 4. run php artisan migrate
 5. run php artisan key:generate
 6. dont forget play video tutorial to deploy in vps [click to view](https://youtu.be/WCpU2CqsIr4?si=oMyaNwE74ABeoPQX)
+7. run > npm i
+8. run > npm run build
+9. php artisan serve && php artisan websocket:serve
+
+
+## Sample env config for localhost
+```env
+PUSHER_APP_ID=testingwebsocket
+PUSHER_APP_KEY=qwerty
+PUSHER_APP_SECRET=1234
+PUSHER_HOST=localhost
+PUSHER_PORT=6001
+PUSHER_SCHEME=http
+PUSHER_APP_CLUSTER=mt1
+```
+No need to purchase a pusher; you only insert an app key with a fake key string and an fake app secret with a number. 
+Note: config for production, as you can see [deploy laravel websocket to vps](https://youtu.be/WCpU2CqsIr4?si=oMyaNwE74ABeoPQX)
 
 ## About Laravel Websocket
 
